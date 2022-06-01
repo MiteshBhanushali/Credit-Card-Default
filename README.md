@@ -55,7 +55,7 @@ Machine Learning Models Used:
 
 This is a binary classification problem where the target variable is whether or not a client will default on their payment (Yes = 1, No = 0). After cleaning the data, handling class imbalance and feature engineering, several baseline models were fit to the training data. Baselines included K Nearest Neighbors, Logistic Regression, Decision Trees and Random Forest. Each model iteration's hyperparameters were tuned with GridSearchCV. Predictions were evaluated using the **F1 Score**.
 
-![matrix](./visualizations/normalized_forest_matrix.png)
+![matrix]([./visualizations/normalized_forest_matrix.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fconfusion-matrix-for-your-multi-class-machine-learning-model-ff9aa3bf7826&psig=AOvVaw1tVUZk4sAE_YMIi_7FhtLy&ust=1654186304183000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjrgqvSjPgCFQAAAAAdAAAAABAD))
 
 
 
